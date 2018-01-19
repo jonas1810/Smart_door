@@ -1,0 +1,11 @@
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/bin/Debug/netcoreapp2.0/SmartDoor.deps.json
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/bin/Debug/netcoreapp2.0/SmartDoor.runtimeconfig.json
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/bin/Debug/netcoreapp2.0/SmartDoor.runtimeconfig.dev.json
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/bin/Debug/netcoreapp2.0/SmartDoor.dll
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/bin/Debug/netcoreapp2.0/SmartDoor.pdb
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/obj/Debug/netcoreapp2.0/SmartDoor.csprojResolveAssemblyReference.cache
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/obj/Debug/netcoreapp2.0/SmartDoor.csproj.CoreCompileInputs.cache
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/obj/Debug/netcoreapp2.0/SmartDoor.AssemblyInfoInputs.cache
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/obj/Debug/netcoreapp2.0/SmartDoor.AssemblyInfo.cs
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/obj/Debug/netcoreapp2.0/SmartDoor.dll
+/Users/jonas/Desktop/smart_door_repo/SmartDoor/SmartDoor/obj/Debug/netcoreapp2.0/SmartDoor.pdb
