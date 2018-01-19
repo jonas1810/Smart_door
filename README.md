@@ -1,9 +1,6 @@
 # Smart_door
 Jonas Simonsen
 
-# Smart_door
-Jonas Simonsen
-
 Synopsis 
 
 Mit projekt er en smart-dør, som er simuleret i commands line. 
